@@ -184,7 +184,7 @@ def load_models_keras_format():
     # ⚠️ REPLACE WITH YOUR FILE IDs
     FILE_IDS = {
         'autism_model': '1q3LqM-BOm7YbYhCw1yBL1YB5fNTu9Df4',
-        'emotion_model': '13QZM4lWFMor72Tb2ti37aoEqVbKXF-5o',
+        'emotion_model': '1Xk4LymTvup2ipZbTnarq95O_otO_dIb9',
         'emotion_classes': '1Er_XFyn7Jk3ikC4AXXmOUNLG5i4h4Y9g'
     }
     
@@ -429,3 +429,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
